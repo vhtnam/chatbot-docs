@@ -40,7 +40,6 @@ This documentation will help you learn all about creating landing page, configur
    _admin/templates
    _admin/plans
    _admin/user
-   _admin/libraries
    _admin/translating
 
 .. _advanced-settings:
@@ -50,8 +49,10 @@ This documentation will help you learn all about creating landing page, configur
    :caption: Configuration
    
    
-   _config/payments
+   
    _crm/mailchimp
+   _config/paypal
+   _config/stripe
    _crm/queue
    _config/domain
    _config/email

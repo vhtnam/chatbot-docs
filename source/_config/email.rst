@@ -37,3 +37,5 @@ SMTP
 ==============
 
 Login to Admin->Settings->Email, fill this form with your email credentials.
+
+.. image:: ../assets/images/admin_email.gif
