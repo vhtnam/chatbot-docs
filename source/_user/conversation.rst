@@ -1,9 +1,9 @@
-Form Integration
+Conversation
 ==============
 
 
 ==============
-MailChimp
+Add a Conversation
 ==============
 .. NOTE:: you must have a MailChimp account before.
 

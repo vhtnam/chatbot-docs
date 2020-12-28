@@ -38,32 +38,25 @@ This documentation will help you learn all about creating landing page, configur
 
    _admin/access
    _admin/templates
+   _admin/plans
+   _admin/user
    _admin/libraries
-    _admin/translating
+   _admin/translating
 
 .. _advanced-settings:
 
 .. toctree::
    :maxdepth: 1
    :caption: Configuration
-
-   _config/subdomain
    
+   
+   _config/payments
+   _crm/mailchimp
+   _crm/queue
    _config/domain
    _config/email
    
-.. _email-platform:
 
-.. toctree::
-   :maxdepth: 1
-   :caption: CRM Configuration
-
-   _crm/mailchimp
-   _crm/saleforce
-   _crm/infusionsoft
-   _crm/aweber
-   _crm/zohocrm
-   _crm/hubspot
    
 .. _user-mannual:
 
@@ -72,14 +65,10 @@ This documentation will help you learn all about creating landing page, configur
    :caption: User Mannual
 
    _user/login
-   _user/website
-   _user/publishing
-   _user/templates
-   _user/module
-   _user/section
-   _user/popup
-   _user/carousel
-   _user/form
-   _user/form_integration
-   _user/crm_config
-   _user/google_recaptcha
+    _user/chatbot
+   _user/conversation
+   _user/sequence
+   _user/broadcast
+   _user/cards
+   _user/keyword
+   
