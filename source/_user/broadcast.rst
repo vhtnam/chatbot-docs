@@ -1,16 +1,16 @@
-Form
+Chatbot Broadcast
 ==============
 
 
 ==============
-Adding a Form
+Adding a Broadcast
 ==============
 
 - Open the Builder, drag the form widget to the builder canvas.
 .. image:: ../assets/images/addform.jpg
 
 ==============
-Adding Form Fields
+Broadcast Settings
 ==============
 - Select a Form in the Builder.
 
@@ -22,7 +22,7 @@ Adding Form Fields
 
 
 ==============
-Form Integrations
+Rename a Broadcast
 ==============
 Form data submitted by user can be sent to 3rd party services (such as MailChimp, AWeber, GetResponse, etc.)
 

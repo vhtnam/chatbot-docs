@@ -1,9 +1,9 @@
-Module
+Chatbot Cards
 ==============
 
 
 ==============
-Adding a Module
+Text Card
 ==============
 
 - Open the Builder.
@@ -13,7 +13,7 @@ Adding a Module
 
 
 ==============
-Editting a Module
+Input Card
 ==============
 
 
@@ -22,13 +22,23 @@ Editting a Module
 .. image:: ../assets/images/editmodule.jpg
 
 ==============
-Duplicate a Module
+Email Card
 ==============
 - Click to a Module to open Edit Mode. Press Duplicate to remove this module from canvas.
 .. image:: ../assets/images/duplicatemodule.jpg
 
 ==============
-Delete a Module
+Phone Card
 ==============
 - Click to a Module to open Edit Mode. Press Delete to remove this module from canvas.
 .. image:: ../assets/images/deletemodule.jpg
+
+==============
+Livechat Card
+==============
+
+
+==============
+Livechat Card
+==============
+

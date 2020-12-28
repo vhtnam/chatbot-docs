@@ -23,7 +23,10 @@ This documentation will help you learn all about creating landing page, configur
    _install/upload_files
    _install/doc_root
    _install/file_permission
+   
    _install/install
+   _install/install_redis
+   _install/install_supervisor
    _install/updating
    changelog
 

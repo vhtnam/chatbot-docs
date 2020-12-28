@@ -1,8 +1,8 @@
-Mobile Editor
+Comment Rule
 ==============
 
 ==============
-Switching to Mobile mode
+Create a Comment Rule
 ==============
 - Open the Builder.
 - Click the mobile button on the top header.
@@ -10,7 +10,7 @@ Switching to Mobile mode
 .. image:: ../assets/images/mobile.jpg
 
 ==============
-Auto optimized
+Disable a Comment Rule
 ==============
 - Still in the Mobile mode, click on any section.
 - On the right panel, click button Arrange All Section.

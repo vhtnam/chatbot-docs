@@ -1,16 +1,16 @@
-Carousel
+Chatbot
 ==============
 
 
 ==============
-Adding a Carousel
+Create Chatbot
 ==============
 
 - Open the Builder, drag the Carousel widget to the builder canvas.
 .. image:: ../assets/images/addcarousel.jpg
 
 ==============
-Adding new Slide
+Rename Chatbot
 ==============
 - Select a Carousel in the Builder.
 
@@ -22,7 +22,7 @@ Adding new Slide
 - Select an image and click Select.
 
 ==============
-Delete a Slide
+Delete Chatbot
 ==============
 - Select a Carousel in the Builder.
 
@@ -32,15 +32,15 @@ Delete a Slide
 .. image:: ../assets/images/deletecarouselslide.jpg
 
 - Click Remove button on relevant slide.
+
 ==============
-Adding Carousel Content
+Connect Chatbot to a Facebook page
 ==============
-- Select a Carousel in the Builder.
 
+- Open the Builder, drag the Carousel widget to the builder canvas.
+.. image:: ../assets/images/addcarousel.jpg
 
-- Drag the Carousel widget to the relevant Carousel.
-.. image:: ../assets/images/addcarouselcontent.jpg
-
-- Next, you can drag Text or Button into this content.
-
+==============
+Pause Chatbot
+==============
 
