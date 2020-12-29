@@ -6,25 +6,31 @@ Conversation
 Add a Conversation
 ==============
 
-- 
+- Open a Bot Dashboard.
+- Click  Conversation from the left menu.
+
+.. image:: ../assets/images/conversation2.gif
+
+- Click Add group or Sequence button. Select Add Group.
+
+.. image:: ../assets/images/conversation.gif
+
+- A new Conversation Group is added, click the plus button on this group.
+
+.. image:: ../assets/images/conversation3.gif
+
 
 
 ==============
-Saleforces
+Remove a Conversation
 ==============
 
-- In the Integration dialog, click Saleforces to open ZohoCRM dialog.
-.. image:: ../assets/images/form3.jpg
+- In the Conversation page, click the 3 dots button on the Conversation to delete.
+- Click Delete. Then click OK to remove this conversation. 
 
-- Select Add Account in the next dialog.
-- Now, use your Saleforces account to login.
-- Back to the Builder, select a Saleforces campaign.
+.. image:: ../assets/images/remove_conversation.gif
 
 
-- Next, mapping your form fields with Saleforces fields.
-
-
-- Finally, click OK.
 
 ==============
 ZohoCRM

@@ -10,7 +10,7 @@ Create Chatbot
 - Click Dashboard.
 - Click Create a Blank Bot button
 
-.. image:: ../assets/images/chatbot.jpg
+.. image:: ../assets/images/chatbot.gif
 
 ==============
 Rename Chatbot
