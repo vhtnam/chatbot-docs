@@ -1,9 +1,9 @@
-Chatbot Broadcast
+Chatbot Sequence
 ==============
 
 
 ==============
-Adding a Broadcast
+Adding a Sequence
 ==============
 
 - In the Bot Edit, select Broadcast from the left menu.

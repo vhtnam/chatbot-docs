@@ -5,23 +5,8 @@ Conversation
 ==============
 Add a Conversation
 ==============
-.. NOTE:: you must have a MailChimp account before.
 
-- In the Integration dialog, click MailChimp to open MailChimp dialog.
-.. image:: ../assets/images/form3.jpg
-
-- Select Add Account in the next dialog.
-.. image:: ../assets/images/mailchimp.jpg
-- Now, use your mailchimp account to login.
-- Back to the Builder, select a MailChimp list.
-
-.. image:: ../assets/images/mailchimp1.jpg
-
-- Next, mapping your form fields with MailChimp fields.
-
-.. image:: ../assets/images/mailchimp2.jpg
-
-- Finally, click OK.
+- 
 
 
 ==============

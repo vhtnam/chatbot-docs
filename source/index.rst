@@ -1,15 +1,15 @@
 User Guide
 ==========
 .. meta::
-   :title: AMP Builder documentation
+   :title: Messenger Chatbot Builder documentation
    
-   :description: AMP Builder is an easy-to-use tool to build and test your stunning, on-brand and mobile-optimized landing page. Improve your conversion rate with just few click and without coding knowledge
+   :description: Chatbot Builder is an easy-to-use tool to build and create your SAAS Messenger Chatbot Builder Service
    
-   :keywords: amp landing page,templates,multi users,codecanyon
+   :keywords: chatbot, facebook messenger,templates,multi users,saas,codecanyon
 
-This documentation will help you learn all about creating landing page, configure system and much more.
+This documentation will help you learn all about creating Chatbot, configure system and much more.
 
-.. NOTE:: AMP Builder is build with `Laravel Framework <https://laravel.com>`__
+.. NOTE:: Chatbot Builder is build with `Laravel Framework <https://laravel.com>`__
 
 
 .. _installation:
