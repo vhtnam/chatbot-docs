@@ -66,7 +66,7 @@ This documentation will help you learn all about creating Chatbot, configure sys
    :caption: User Mannual
 
    _user/login
-    _user/chatbot
+   _user/chatbot
    _user/conversation
    _user/sequence
    _user/broadcast
