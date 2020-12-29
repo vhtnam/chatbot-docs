@@ -1,34 +1,63 @@
 Chatbot Sequence
 ==============
 
+Sequences are blocks of follow-up messages you can send after a certain period of time.
+
+.. NOTE:: Chatbot Sequence require Laravel Queue installed and running. If not, this feature won't work.
 
 ==============
-Adding a Sequence
+Add a Sequence
 ==============
 
-- In the Bot Edit, select Broadcast from the left menu.
-- In the Broadcast page, click Add Broadcast.
-.. image:: ../assets/images/addform.jpg
+- Open a Bot Dashboard.
+- Click  Conversations from the left menu.
 
-==============
-Broadcast Settings
-==============
-- Select a Form in the Builder.
+.. image:: ../assets/images/conversation.gif
 
+- Click Add group or Sequence button. Select Add Group.
 
-- On the right panel, scroll down to show to Form Fields section
-.. image:: ../assets/images/formfield.jpg
+.. image:: ../assets/images/sequence.gif
 
-- Drag relevant form field into your form.
+- A new Sequence is added, click the plus button to a Sequence Block to this Sequence.
 
-==============
-Broadcast Schedule
-==============
-
-
+.. image:: ../assets/images/sequence2.gif
 
 
 ==============
-Rename a Broadcast
+Remove a Sequence
 ==============
+
+- In the Conversation page, click the 3 dots button on the Sequence to delete.
+- Click Delete. Then click OK to remove this conversation. 
+
+.. image:: ../assets/images/sequence3.gif
+
+
+
+==============
+Rename a Conversation
+==============
+
+- In the Conversation page, click the 3 dots button on the Conversation to rename.
+- Click Rename. Set the new name to the Conversation and click Check button.
+
+.. image:: ../assets/images/sequence4.gif
+
+.. image:: ../assets/images/rename_conversation2.gif
+
+
+==============
+Subscribe a Customer to a Sequence
+==============
+
+- Open a Bot Dashboard.
+- Click  Audience from the left menu.
+
+
+.. image:: ../assets/images/sequence5.gif
+
+- Click on the relevant subscriber.
+- Next, in the Subscriber Info Dialog, click Subscribe.
+- Select a Sequence to add subscriber to.
+
 
