@@ -35,7 +35,7 @@ Remove a Sequence
 
 
 ==============
-Rename a Conversation
+Rename a Sequence
 ==============
 
 - In the Conversation page, click the 3 dots button on the Conversation to rename.
