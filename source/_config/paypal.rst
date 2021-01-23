@@ -27,8 +27,8 @@ Configuration Paypal Product
 - Click Use on the created product.
 - The Product List dialog will close, in the Stripe settings form, Click Save
 
-.. image:: ../assets/images/add_paypal_product.gif
-.. image:: ../assets/images/add_paypal_product2.gif
+.. image:: ../assets/images/admin_paypal_product.gif
+.. image:: ../assets/images/admin_paypal_product2.gif
 
 ==============
 Configuration Paypal Webhook
@@ -39,5 +39,5 @@ Configuration Paypal Webhook
 - Click Use on the created webhook.
 - The Webhook List dialog will close, in the Stripe settings form, Click Save
 
-.. image:: ../assets/images/add_paypal_webhook.gif
-.. image:: ../assets/images/add_paypal_webhook2.gif
+.. image:: ../assets/images/admin_paypal_webhook.gif
+.. image:: ../assets/images/admin_paypal_webhook2.gif
