@@ -1,6 +1,9 @@
 Plans
 ==============
 
+.. NOTE:: You should setup payment gateway before configurate Plan
+
+
 ==============
 Add Plan
 ==============
@@ -61,6 +64,7 @@ Plan Condition
 - From Plan Conditions dialog, check or uncheck the Conversation Card you want to show on this plan.
 
 .. image:: ../assets/images/edit_plan_condition.gif
+
 .. image:: ../assets/images/edit_plan_condition2.gif
 
 
