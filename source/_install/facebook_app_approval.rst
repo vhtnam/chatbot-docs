@@ -3,27 +3,28 @@ Facebook App APPROVAL
 
 ==============
 How to submit a Facebook app for review
-
 ==============
 
 You will need below permission to run ChatbotPB core features.
-pages_manage_engagement
-pages_read_user_content
-pages_manage_posts
-pages_manage_metadata
-pages_read_engagement
-pages_show_list
-pages_messaging
-Business Asset User Profile Access
-pages_user_gender
-pages_user_locale
-pages_user_timezone
+- pages_manage_engagement
+- pages_read_user_content
+- pages_manage_posts
+- pages_manage_metadata
+- pages_read_engagement
+- pages_show_list
+- pages_messaging
+- Business Asset User Profile Access
+- pages_user_gender
+- pages_user_locale
+- pages_user_timezone
 
 ==============
 Create Test User
 ==============
 1. Go to https://developers.facebook.com/apps/
+
 2. Open your App.
+
 3. Select Roles -> Test Users from the displayed platforms.
 
 .. image:: ../assets/images/facebook_app12.gif
@@ -41,14 +42,14 @@ Create Test User
 
 8. Back to the User list, click Edit again, select Change Permissions this test user granted to this app.
 9. Choose following permissions and click Update
-email
-public_profile
-pages_show_list
-pages_messaging
-pages_read_engagement
-pages_manage_metadata
-pages_read_user_content
-pages_manage_engagement
+- email
+- public_profile
+- pages_show_list
+- pages_messaging
+- pages_read_engagement
+- pages_manage_metadata
+- pages_read_user_content
+- pages_manage_engagement
 
 .. image:: ../assets/images/facebook_app15.gif
 
@@ -72,17 +73,17 @@ Submit App Approval Request
 .. image:: ../assets/images/facebook_app19.gif
 
 2. Click Request Advance Access foreach following permissions: 
-pages_manage_engagement
-pages_read_user_content
-pages_manage_posts
-pages_manage_metadata
-pages_read_engagement
-pages_show_list
-pages_messaging
-Business Asset User Profile Access
-pages_user_gender
-pages_user_locale
-pages_user_timezone
+- pages_manage_engagement
+- pages_read_user_content
+- pages_manage_posts
+- pages_manage_metadata
+- pages_read_engagement
+- pages_show_list
+- pages_messaging
+- Business Asset User Profile Access
+- pages_user_gender
+- pages_user_locale
+- pages_user_timezone
 
 
 2. select App Review -> Request, insert content foreach permissions. Create demo screencast with your test account if this permission required.
@@ -182,7 +183,8 @@ Test account: test user email and test user password (copied from previous step)
 	9. Users can like, hide, remove a offensive comment. They also can make a private reply to the subscriber.
 
 9. pages_messaging
-	Tell us how you're using this permission or feature
+	| Tell us how you're using this permission or feature
+	
 	1. User login with their facebook accounts.
 	2. Click Create new blank bot button.
 	3. Now there is a new chatbot item created, user click on this item to edit.
@@ -191,9 +193,9 @@ Test account: test user email and test user password (copied from previous step)
 	5. Next page, system will get list of facebook pages which managed by this user. Users will choose a facebook page they want to connect with Chatbot then click Connect.
 	6. After connected to a FB page, users will navigate to Conversation section. They will define messages they want Chatbot to response to Subsciber.
 	
-	Please provide step-by-step instructions to walk us through how to test this integration.
-	Test account test user email and test user password
-	Test page link: link to your facebook page messenger( m.me/...)
+	| Please provide step-by-step instructions to walk us through how to test this integration.
+	| Test account test user email and test user password
+	| Test page link: link to your facebook page messenger( m.me/...)
 	1. Access to the test page. 
 	2. Login with this test account. 
 	3. Send "Hi" to Bot. Bot will reply "Hi.Thank you for message us" 
