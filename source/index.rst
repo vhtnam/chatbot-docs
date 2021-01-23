@@ -71,6 +71,7 @@ This documentation will help you learn all about creating Chatbot, configure sys
    _user/conversation
    _user/sequence
    _user/broadcast
+   _user/subscriber
    _user/cards
    _user/keyword
    
