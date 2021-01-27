@@ -16,7 +16,7 @@ To be able to operate AMPBuilder on your own server, the server will need to mee
  - Ctype PHP Extension
  - JSON PHP Extension
  - BCMath PHP Extension
- Some features like Messenger Sequence, Broadcast Schedule, Livechat, Chatbot Comment use Laravel Queue. So you will need install and configuration:
+ Some features like Messenger Sequence, Broadcast Schedule, Livechat, Chatbot Comment use Laravel Queue. So for better performance, we recommend you install following scripts:
  
  - Redis cache and Php-Redis extension.
  - Supervisor. 

@@ -6,17 +6,17 @@ How to submit a Facebook app for review
 ==============
 
 | You will need below permission to run ChatbotPB core features.
-| pages_manage_engagement
-| pages_read_user_content
-| pages_manage_posts
-| pages_manage_metadata
-| pages_read_engagement
-| pages_show_list
-| pages_messaging
-| Business Asset User Profile Access
-| pages_user_gender
-| pages_user_locale
-| pages_user_timezone
+- pages_manage_engagement
+- pages_read_user_content
+- pages_manage_posts
+- pages_manage_metadata
+- pages_read_engagement
+- pages_show_list
+- pages_messaging
+- Business Asset User Profile Access
+- pages_user_gender
+- pages_user_locale
+- pages_user_timezone
 
 ==============
 Create Test User
@@ -86,13 +86,13 @@ Submit App Approval Request
 | pages_user_timezone
 
 
-2. select App Review -> Request, insert content foreach permissions. Create demo screencast with your test account if this permission required.
+2. Select App Review -> Request, insert content foreach permissions. Create demo screencast with your test account if this permission required.
 
 ==============
 Approval Content
 ==============
 
-1.App Verification 
+1. App Verification 
 
 Hi, Please check my system below credential
 
