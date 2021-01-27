@@ -5,7 +5,7 @@ Facebook App APPROVAL
 How to submit a Facebook app for review
 ==============
 
-You will need below permission to run ChatbotPB core features.
+| You will need below permission to run ChatbotPB core features.
 | pages_manage_engagement
 | pages_read_user_content
 | pages_manage_posts

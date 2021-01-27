@@ -11,7 +11,7 @@ Running following commands:
 
 2. vim /etc/supervisord.conf edit section program as following:
 	| [program:laravel-worker]
-	| command=php /path/to/app.com/artisan queue:work 
+	| command=php /path_to_source_folder/artisan queue:work 
 	| process_name=%(program_name)s_%(process_num)02d
 	| numprocs=8 
 	| priority=999 
@@ -30,13 +30,13 @@ For Redhat/Debian
 ==============
 1. sudo apt-get install supervisor
 
-2.Configuration
+2. Configuration
 
 Supervisor configuration files are typically stored in the /etc/supervisor/conf.d directory. Within this directory, you may create any number of configuration files that instruct supervisor how your processes should be monitored. For example, let's create a laravel-worker.conf file that starts and monitors queue:work processes:
 
 	| [program:laravel-worker]
 	| process_name=%(program_name)s_%(process_num)02d
-	| command=php /home/forge/app.com/artisan queue:work sqs --sleep=3 --tries=3 --max-time=3600
+	| command=php /path_to_source_folder/artisan queue:work --sleep=3 --tries=3 --max-time=3600
 	| autostart=true
 	| autorestart=true
 	| stopasgroup=true
@@ -44,7 +44,7 @@ Supervisor configuration files are typically stored in the /etc/supervisor/conf.
 	| user=forge
 	| numprocs=8
 	| redirect_stderr=true
-	| stdout_logfile=/home/forge/app.com/worker.log
+	| stdout_logfile=/path_to_source_folder/worker.log
 	| stopwaitsecs=3600
 
 
