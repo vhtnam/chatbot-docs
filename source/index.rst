@@ -26,6 +26,7 @@ This documentation will help you learn all about creating Chatbot, configure sys
    _install/facebook_app
    _install/install
    _install/install_supervisor
+   _install/cron
    _install/facebook_app_approval
    _install/queue
    _install/updating
