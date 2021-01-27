@@ -1,7 +1,7 @@
 Installing Supervisor
 ==============
 
-If you don't have root access to your server, ignore this section.
+.. Note:: If you don't have root access to your server, ignore this section.
 
 ==============
 For Centos

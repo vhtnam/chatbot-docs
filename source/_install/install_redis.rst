@@ -1,5 +1,6 @@
 Installing Redis
 ==============
+.. Note:: If you don't have root access to your server, ignore this section.
 
 For Centos
 1. sudo yum install redis -y

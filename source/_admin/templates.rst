@@ -10,9 +10,11 @@ Add template
 - Click Add Template button.
 - From Add template page, fill required information then click Save.
 
-.. image:: ../assets/images/add_template.jpg
-.. image:: ../assets/images/add_template3.jpg
-.. image:: ../assets/images/add_template2.jpg
+.. image:: ../assets/images/add_template.gif
+
+.. image:: ../assets/images/add_template3.gif
+
+.. image:: ../assets/images/add_template2.gif
 
 ==============
 Export Template
