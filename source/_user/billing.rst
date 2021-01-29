@@ -8,7 +8,7 @@ Upgrade Chatbot
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/VwJAEJ3bakM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/506073352" width="640" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ==============
 Manage Billing
@@ -20,10 +20,11 @@ Manage Billing
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/hmu4Qh-ok_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/506073299" width="640" height="316" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 
 2. Cancel Subscription
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/etAEIyCueEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/506073260" width="640" height="316" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
