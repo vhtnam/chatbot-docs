@@ -1,15 +1,15 @@
 User Guide
 ==========
 .. meta::
-   :title: Messenger Chatbot Builder documentation
+   :title: ChatbotPB documentation
    
-   :description: Chatbot Builder is an easy-to-use tool to build and create your SAAS Messenger Chatbot Builder Service
+   :description: ChatbotPB is an easy-to-use tool to build and create your SAAS Messenger Chatbot Builder Service
    
    :keywords: chatbot, facebook messenger,templates,multi users,saas,codecanyon
 
 This documentation will help you learn all about creating Chatbot, configure system and much more.
 
-.. NOTE:: Chatbot Builder is build with `Laravel Framework <https://laravel.com>`__
+.. NOTE:: ChatbotPB is build with `Laravel Framework <https://laravel.com>`__
 
 
 .. _installation:
@@ -75,4 +75,5 @@ This documentation will help you learn all about creating Chatbot, configure sys
    _user/subscriber
    _user/cards
    _user/keyword
-   
+   _user/settings
+   _user/billing

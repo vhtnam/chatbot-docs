@@ -1,99 +1,78 @@
-Chatbot Cards
+Chatbot Settings
 ==============
 
 
 ==============
-Text Card
+Persistent Menu
 ==============
 
-.. image:: ../assets/images/card_text0.gif
+.. image:: ../assets/images/general_settings.gif
 
-1. Text
+1. Add Button
 
-
-.. image:: ../assets/images/card_text.gif
-
-- Send Text Message to Subscriber.
-- To add subscriber attribute, type { to display list of subscriber attribute, select an attribute from the list.
-- To add system attribute, type [ to show list system attribute.
-
-2. Emoji
-
-.. image:: ../assets/images/card_text3.gif
-
-- Click to the Emoji button on the bottom right of the Text Card.
-- Select an Emoji in the Emoji Dialog.
-
-3. Button
-
-- Create button to allow click and do some certain actions.
-- Support 3 types of action:
-	- URL: Open the URL.
-	- Phone: Call Customer Phone.
-	- Redirect Block: Send another Block to Customer.
-
-- Click Add button in the Text card
-
-.. image:: ../assets/images/card_text1.gif
+- In the Persistent Menu area, click Add button.
+.. image:: ../assets/images/persistent_menu.gif
 
 - Next, a Button Dialog will appear. Fill the Button Text, select Action then Click OK to save the Button
 
 .. image:: ../assets/images/card_text2.gif
 
+2. Enable User Input
+
+- Check the Allow Keybord to allow User free typing.
+
+.. image:: ../assets/images/persistent_menu1.gif
 
 ==============
-Input Card
+Ice Breakers
 ==============
 
-.. image:: ../assets/images/card_input0.gif
+1. Add Button
 
+- In the Persistent Menu area, click Add button.
+.. image:: ../assets/images/ice_breaker.gif
 
-- Create a question for subscriber and save the answer to an attribute.
+- Next, a Button Dialog will appear. Fill the Button Text, select a Conversation then Click OK to save the Button
 
-.. image:: ../assets/images/card_input.gif
-
-- Type: validate the answer, default is Text
-	- Email: require answer is an email.
-	- Phone: requie answer is a phone number.
-	- Number: answer must be a number.
-	- URL: answer must be an URL( begin with http or https).
-	- Date/Datetime: validate for Date/ Date with time value.
-	- File/Image/Audio/Video: users must send a file through messenger.
-	- Location: the answer must contain location value( long, lat).
-	
-- Save reponse to a Custom Field: select a custom attribute to send the answer to. 
-
-- You can directly add a Custom Field by typing field name in the Variable Text Input, then select Add new Field.
-
-.. image:: ../assets/images/card_input1.gif
-
-.. image:: ../assets/images/card_input2.gif
-
-- Validate Message: message to user when their answers invalid.
+.. image:: ../assets/images/ice_breaker1.gif
 
 ==============
-Email Card
+Chatbot User Custom Field
 ==============
 
-.. image:: ../assets/images/card_email0.gif
+1. Add a Custom Field
 
-- Ask User for email, if Customer has Email set to public, will display a Email Quick Reply.
+- On the Custom Field area, click Add
 
-- Same as Input Card but it save the answer to System Email field of subscriber
+.. image:: ../assets/images/custom_field.gif
 
+- Set the name for the Custom Field and Click OK.
+
+2. Rename Custom Field
+- You can't rename a custom field
+
+3. Delete a Custom Field
 ==============
-Phone Card
+Chatbot System Data
 ==============
 
-.. image:: ../assets/images/card_phone0.gif
 
-- Ask User for their phone, if Customer has phone number set to public, will display a Phone Quick Reply.
+1. Add a System Data
 
-- Same as Input Card but it save the answer to System Phone field of subscriber
+- On the Custom Field area, click Add
+
+.. image:: ../assets/images/custom_field.gif
+
+- Set the name for the Custom Field and Click OK.
+
+2. Rename System Data
+- You can't rename a custom field
+
+3. Delete a System Data
 
 
 ==============
-Livechat Card
+Chatbot Timezone
 ==============
 
 .. image:: ../assets/images/card_livechat0.gif
@@ -120,7 +99,7 @@ Livechat Card
 - Customers in Livechat will display in the Active Tab.
 
 ==============
-Action Card
+Chatbot Whitelist Domains
 ==============
 
 .. image:: ../assets/images/card_action0.gif
