@@ -143,50 +143,52 @@ Json Api
 
 1. Response Example
 The API Enpoint should send a json response contain a list of Messages Chatbot will send to Customer.
+	.. code-block:: JSON
+	{
+	"messages":[
+			"message here"
+		
+	]
+	}
 	- Simple Text:
 		.. code-block:: JSON
 		
-		'messages':[
 			{
-				'type':'text',
-				'text':'Json Api text'
+				"type":"text",
+				"text":"Json Api text"
 			}
-		]
+		
 	- Text with Button:
 		.. code-block:: JSON
 		
-		'messages':[
 			{
-				'type':'text',
-				'text':'Json Api text',
-				'buttons':[
+				"type":"text",
+				"text":"Json Api text",
+				"buttons":[
 					{
-						'label':'Email',
-						'type':'text'
+						"label":"Email",
+						"type":"text"
 					},
 					{
-						'label':'Email',
-						'type':'email'
+						"label":"Email",
+						"type":"email"
 					},
 					{
-						'label':'Phone',
-						'type':'phone'
+						"label":"Phone",
+						"type":"phone"
 					}
 				]
 			}
-		]
 		
 		- Card
 		.. code-block:: JSON
 		
-		'messages':[
 			{
-				'type':'card',
-				'text':'Test card',
-				'subtext':'Card Subtext',
-				'image.src':'source_url', 
-			},
-		]
+				"type":"card",
+				"text":"Test card",
+				"subtext":"Card Subtext",
+				"image.src":"source_url", 
+			}
 
 ==============
 Google Sheet
