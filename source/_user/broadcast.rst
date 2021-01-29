@@ -9,7 +9,7 @@ Adding a Broadcast
 - In the Bot Dashboard page, select Broadcasts from the left menu.
 - In the Broadcast page, click Add Broadcast.
 
-.. image:: ../assets/images/broadcast.jpg
+.. image:: ../assets/images/broadcast.gif
 
 ==============
 Broadcast Settings
@@ -18,7 +18,7 @@ Broadcast Settings
 
 - Select Settings tab
 
-.. image:: ../assets/images/broadcast2.jpg
+.. image:: ../assets/images/broadcast2.gif
 
 - In the Settings tab, set the Message tag to send with this broadcast based on purpose of the Broadcast.
 	- Standard Message: this tag only allows broadcast send within 24 hours subscribers contact with Bot.
