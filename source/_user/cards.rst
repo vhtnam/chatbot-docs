@@ -143,7 +143,7 @@ Json Api
 
 1. Response Example
 	- Simple Text:
-		.. code-block:: json
+		.. code-block:: JSON
 		
 		'messages'=>[
 			[
@@ -152,7 +152,7 @@ Json Api
 			],
 		]
 	- Text with Button:
-		.. code-block:: json
+		.. code-block:: JSON
 		
 		'messages'=>[
 			[
@@ -176,7 +176,7 @@ Json Api
 		]
 		
 		- Card
-		.. code-block:: json
+		.. code-block:: JSON
 		
 		'messages'=>[
 			[
