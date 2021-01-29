@@ -18,7 +18,7 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = 'AMP Builder'
+project = 'ChatbotPB'
 copyright = '2019, STSEngine'
 author = 'STSEngine'
 
