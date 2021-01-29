@@ -27,20 +27,9 @@ Configuration Stripe App
 - Fill the Stripe Public Key and Secret and click Save.
 .. image:: ../assets/images/admin_stripe.gif
 
-==============
-Configuration Stripe Product
-==============
-
-- After setting Public and Secret key, Click Manage Product.
-- Click Create Product.
-- Click Use on the created product.
-- The Product List dialog will close, in the Stripe settings form, click Save
-
-.. image:: ../assets/images/admin_stripe_product.gif
-.. image:: ../assets/images/admin_stripe_product2.gif
 
 ==============
-Configuration Paypal Webhook
+Configuration Stripe Webhook
 ==============
 
 - After setting Client Id and Secret, Click Manage Webhook.
