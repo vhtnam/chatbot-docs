@@ -41,3 +41,41 @@ Configuration Paypal Webhook
 
 .. image:: ../assets/images/admin_paypal_webhook.gif
 .. image:: ../assets/images/admin_paypal_webhook2.gif
+
+==============
+Troubeshotting Paypal
+==============
+
+1. Check if Paypal Plan creating.
+
+- Go to Paypal Setting, scroll to bottom of the Page, click Manage.
+
+.. image:: ../assets/images/admin_paypal1.gif
+
+- Check if the Paypal Id Column of all Plan (exept Free plan) is not empty.
+
+.. image:: ../assets/images/admin_paypal2.gif
+
+- If there, click Sync for this Plan.
+
+2. Check if Webhook is running.
+
+- Try in the Test mode, upgrade a Bot to any Pro plan.
+
+- If the Payment success, go to PayPal’s Developer site at https://developer.paypal.com/  and login with your  PayPal business account email and password.
+
+- On the left sidebar, click Webhooks Event.
+
+- Next page, select your application in the Filter box
+
+.. image:: ../assets/images/admin_paypal3.gif
+
+- Check if there is a success webhook event with name Payment Sale Complete in the event list at the time you upgrade your Bot.
+
+- If not, recheck your Paypal Webhook Setting.
+
+
+
+
+
+
