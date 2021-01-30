@@ -11,7 +11,7 @@ Running following commands:
 
 .. code-block:: console
 
-yum install supervisor
+	yum install supervisor
 
 2. vim /etc/supervisord.conf edit section program as following:
 
@@ -35,7 +35,7 @@ yum install supervisor
 
 .. code-block:: console
 
-systemctl enable supervisord to autorun at start
+	systemctl enable supervisord to autorun at start
 
 4. Start the service
 
@@ -50,7 +50,7 @@ For Redhat/Debian
 
 .. code-block:: console
 
-sudo apt-get install supervisor
+	sudo apt-get install supervisor
 
 2. Configuration
 
