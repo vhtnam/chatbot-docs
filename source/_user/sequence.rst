@@ -3,7 +3,6 @@ Chatbot Sequence
 
 Sequences are blocks of follow-up messages you can send after a certain period of time.
 
-.. NOTE:: Chatbot Sequence require Laravel Queue installed and running. If not, this feature won't work.
 
 ==============
 Add a Sequence
@@ -14,7 +13,7 @@ Add a Sequence
 
 .. image:: ../assets/images/conversation.gif
 
-- Click Add group or Sequence button. Select Add Group.
+- Click Add group or Sequence button. Select Add Sequence.
 
 .. image:: ../assets/images/sequence.gif
 

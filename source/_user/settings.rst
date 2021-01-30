@@ -52,6 +52,7 @@ Chatbot User Custom Field
 - You can't rename a custom field
 
 3. Delete a Custom Field
+- Click the Trash button on the Custom Field you want to delete, click Ok to confirm.
 
 ==============
 Chatbot System Data
@@ -70,5 +71,5 @@ Chatbot System Data
 - You can't rename a custom field
 
 3. Delete a System Data
-
+- Click the Trash button on the System Data you want to delete, click Ok to confirm.
 
