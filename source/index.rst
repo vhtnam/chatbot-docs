@@ -51,7 +51,7 @@ This documentation will help you learn all about creating Chatbot, configure sys
    :caption: Configuration
    
    
-   
+   _config/general
    _crm/mailchimp
    _config/paypal
    _config/stripe
