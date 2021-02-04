@@ -1,6 +1,6 @@
 Creating a new database
 ==============
-First thing you want to do before installing AMPBuilder is to create a new database on your mysql server. If you already know how to do this/or have already created one just skip to the next step.
+First thing you want to do before installing ChatbotPB is to create a new database on your mysql server. If you already know how to do this/or have already created one just skip to the next step.
 
 
 

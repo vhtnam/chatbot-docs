@@ -19,7 +19,7 @@ Running following commands:
 .. code-block:: console
 
 	[program:laravel-worker]
-	command=php /path_to_source_folder/artisan queue:work 
+	command=php /path_to_source_folder/artisan queue:work --sleep=3 --tries=3 
 	process_name=%(program_name)s_%(process_num)02d
 	numprocs=8 
 	priority=999 

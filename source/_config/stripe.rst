@@ -41,12 +41,12 @@ Configuration Stripe Webhook
 .. image:: ../assets/images/admin_stripe_webhook.gif
 
 ==============
-Troubeshotting Paypal
+Troubeshotting
 ==============
 
 1. Check if Stripe Plan creating.
 
-- Go to Paypal Setting, scroll to bottom of the Page, click Manage.
+- Go to Stripe Setting, scroll to bottom of the Page, click Manage.
 
 .. image:: ../assets/images/admin_stripe1.gif
 
